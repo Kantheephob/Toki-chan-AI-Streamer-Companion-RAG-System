@@ -1,0 +1,20 @@
+# 1. Environment Variables (Secret Keys)
+.env
+
+# 2. Python Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# 3. Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 4. Large Data Files
+data/toki_rag_chunks.json
+
+# 5. OS Generated Files
+.DS_Store
+Thumbs.db
