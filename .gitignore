@@ -13,7 +13,7 @@ __pycache__/
 *$py.class
 
 # 4. Large Data Files
-data/toki_rag_chunks.json
+Data/toki_rag_chunks.json
 
 # 5. OS Generated Files
 .DS_Store

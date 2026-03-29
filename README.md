@@ -33,12 +33,12 @@ RAG-FINAL-PROJECT/
 4. Generation: รวม Context ที่ได้เข้ากับ System Prompt ของโทคิจัง แล้วส่งให้ Groq ประมวลผล
 
 ## 📈 Workflow
-![RAG](assets/RAG-workflow.png)
+![RAG](Assets/RAG-workflow.png)
 
 # 🚀 Getting Started
 ### 1. Clone the repo
 ```
-https://github.com/Kantheephob/Toki-chan-AI-Streamer-Companion-RAG-System.git
+git clone https://github.com/Kantheephob/Toki-chan-AI-Streamer-Companion-RAG-System.git
 ```
 
 ### 2. install dependencies
